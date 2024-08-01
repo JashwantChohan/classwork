@@ -1,0 +1,47 @@
+*{
+    background:  aliceblue;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    border: 2px solid gainsboro;
+}
+.img1{
+    height: 200px;
+    width: 1000px;
+    align-items: center;
+    padding: 50px ;
+
+}
+.para{
+    display: flex;
+}
+p{
+    font-size: large;
+    width: 500px;
+    padding: 50px;
+    align-content: center;
+    background: white;
+    margin: 0px 10px 0px 10px;
+    border-radius: 20px;
+
+}
+
+footer{
+    border: 2px solid gainsboro;
+    height: 50px;
+    margin: 20px 0px 0px 0px ;
+    border-radius: 20px;
+}
+
+address{
+    height: 40px;
+    /* background-color: white; */
+    /* align-items: center; */
+    text-align: center;
+    padding: 15px 0px 0px 0px;
+    margin: 5px 0px 0px 0px ;
+
+    
+}

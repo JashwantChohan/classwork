@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: aliceblue;
+
+}
+
+nav{
+
+    border: 1px solid black;
+    border-radius: 10px;
+    /* height: 80px; */
+    
+}
+.logo{
+    margin: 10px ;
+    height: 70px;
+    width: 70px;
+}
+ul{
+    display: inline;
+    display: flex;
+    float: right;
+    /* margin: 10px; */
+}
+li{
+    text-decoration:none;
+    margin: 40px 100px 0px 0px;
+}
+
+.menu{
+    display: flex;
+}
+
+
+
+.sidebar{
+   height: 1000px;
+    width: 20%;
+    margin: 2px 0px 0px 2px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid black;  
+}
+
+.p1{
+    margin: 10px;
+}
+
+.main-content{
+    height: 1000px;
+    width: 80%;
+    margin: 2px 0px 0px 2px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid black; 
+
+}
+
+.p2{
+    margin: 10px;
+}
+
+footer{
+    border: 1px solid black;
+    border-radius:10px;
+    height: 50px;
+    margin: 2px 0px 0px 0px;
+    align-items: center;
+    align-content: center;
+}
+
+address{
+    margin: 0px 0px 0px 300px ;
+}
